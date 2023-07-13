@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abdulhaseeb20
-- 👀 I’m interested in Full stack development and cloud computing.
-- 🌱 I’m currently learning Web Development and Python language.
-- 💞️ I’m looking to collaborate on Web Development
+- 👀 I’m interested in App Development.
+- 🌱 I’m currently learning Python language.
+- 💞️ I’m looking to collaborate on App Development and Python Scripting.
 - 📫 Reach me at: abdulhaseeb12567@gmail.com
 
 <!---
