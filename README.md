@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abdulhaseeb20
-- 👀 I’m interested in Mobile App Development.
+- 👀 I’m interested in AI/ML Engineering.
 - 🌱 I’m currently working on Android App Development.
 - 💞️ I’m looking to collaborate on any development project.
 - 📫 Reach me at: abdulhaseeb12567@gmail.com
