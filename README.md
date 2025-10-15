@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @abdulhaseeb20
-- 👀 I’m interested in AI/ML Engineering.
-- 🌱 I’m currently working on Android App Development.
+- 👋 Hi, I’m Abdul Haseeb
+- 👀 I’m interested in Data Analytics and Artificial Intelligence.
 - 💞️ I’m looking to collaborate on any development project.
-- 📫 Reach me at: abdulhaseeb12567@gmail.com
+- 📫 Reach me at: haseebabdul12567@gmail.com
 
 <!---
 abdulhaseeb20/abdulhaseeb20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
